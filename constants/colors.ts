@@ -1,0 +1,30 @@
+export const Colors = {
+  customer: {
+    primary: '#0D9488',
+    primaryDark: '#0F766E',
+    accent: '#B45309',
+    bg: '#0f0f0f',
+    card: '#1a1a1a',
+    text: '#ffffff',
+    subtext: '#9ca3af',
+    border: '#2a2a2a',
+  },
+  kitchen: {
+    primary: '#39FF14',
+    bg: '#1C1C1E',
+    card: '#2c2c2e',
+    text: '#ffffff',
+    new: '#F59E0B',
+    cooking: '#3B82F6',
+    ready: '#22C55E',
+  },
+  admin: {
+    primary: '#7C3AED',
+    accent: '#F59E0B',
+    bg: '#0a0a0f',
+    card: '#13131f',
+    text: '#ffffff',
+    subtext: '#9ca3af',
+    border: '#1e1e2e',
+  },
+};

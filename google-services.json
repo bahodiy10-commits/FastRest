@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711659144425",
+    "project_id": "fastrest-7b5aa",
+    "storage_bucket": "fastrest-7b5aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711659144425:android:c92d1967baa6539df81c78",
+        "android_client_info": {
+          "package_name": "uz.fastrest.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFwJm2tu7Qv-Ij-mODvlZAew_7_tA5bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
